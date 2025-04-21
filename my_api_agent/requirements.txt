@@ -1,0 +1,4 @@
+pocketflow
+requests
+PyYAML
+openai # Or your preferred LLM client library 
